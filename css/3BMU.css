@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 14pt;
+    background-color: bisque;
+}
+
+a{
+    font-size: 95%;
+}
+
+p {
+    color: black;
+    font-size: 1rem;
+}
+
+iframe{
+    width: 500px;
+    height: 315px;
+    display: inline-block;
+    width: 33.33%;
+    box-sizing: border-box;
+}
+
+#logo{
+    height: 20vh;
+    width: 15vw;
+}
+
+.TreePhoto {
+    height: 300px;
+}
+
+.footage {
+    width: 560px;
+    height: 315px;
+}
+
+#copyrightStatement{
+    font-style: italic;
+    font-size: 12px;
+} 
+
+main > img {
+    height: 850px;
+    margin: 70px, 50px;
+}
+
+h2{
+    border: 5px dashed green;
+    padding: 10 px;
+    width: 1000px;
+    box-sizing: border-box;
+}
+
+a:visited {
+    color: red;
+}
